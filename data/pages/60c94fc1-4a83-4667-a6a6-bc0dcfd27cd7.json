@@ -4,6 +4,72 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "To Tell The Truth Mediated Testimony"
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "To Tell the Truth is a television show which invite the real incident experiencer and two actors to claim they are the one."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "uuid": "b0901244-96e9-42a2-9269-9f75af8bf50a",
+              "includes": [
+                "media",
+                "annotations",
+                "label",
+                "description"
+              ],
+              "type": "event",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -12,7 +78,7 @@
   "created_at": "2026-06-16T15:28:59.863Z",
   "created_by": "Wanshu8",
   "title": "Alien Abductee Charles Hickson on To Tell The Truth",
-  "updated_at": "2026-06-17T19:25:05.208Z",
+  "updated_at": "2026-06-17T19:37:05.117Z",
   "updated_by": "Wanshu8",
   "autogenerate": {
     "enabled": false,
