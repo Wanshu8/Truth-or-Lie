@@ -40,7 +40,8 @@
               "children": [
                 {
                   "text": "Guide to Tags",
-                  "link": "https://wanshu8.github.io/Truth-or-Lie/pages/guide-to-tags/"
+                  "link": "https://wanshu8.github.io/Truth-or-Lie/pages/guide-to-tags/",
+                  "underline": true
                 }
               ]
             },
@@ -48,7 +49,9 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "To Tell The Truth-Video&Annotation"
+                  "text": "To Tell The Truth-Video&Annotation",
+                  "link": "https://wanshu8.github.io/Truth-or-Lie/pages/to-tell-the-truth-videoandannotation/",
+                  "underline": true
                 }
               ]
             },
@@ -323,7 +326,7 @@
   "created_at": "2026-06-16T15:28:59.863Z",
   "created_by": "Wanshu8",
   "title": "Performing Credibility: Charles Hickson, Pascagoula, and UFO Testimony on To Tell the Truth",
-  "updated_at": "2026-06-18T15:08:21.470Z",
+  "updated_at": "2026-06-18T15:12:43.428Z",
   "updated_by": "Wanshu8",
   "autogenerate": {
     "enabled": false,
