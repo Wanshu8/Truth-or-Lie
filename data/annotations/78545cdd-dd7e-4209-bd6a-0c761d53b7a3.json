@@ -38,51 +38,6 @@
       "uuid": "197b3cba-0625-40c9-bbd0-889257aba170"
     },
     {
-      "start_time": 13,
-      "end_time": 17,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Before speaking, Number One bit his lower lip. While speaking, his eyes moved from right to left and then back twice (the speaker's subjective direction, the same below). His head moved slightly left and right once, then up and down once. After speaking, he closed his lips tightly. He blinked after \"saying\" Charles\"."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Contestant #1"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Eye Movement"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Head Movement"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Blink"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Lip Movement"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Facial Expression"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Body Language"
-        }
-      ],
-      "uuid": "e7b9166d-d931-4c67-b2e7-09abb299ba67"
-    },
-    {
       "start_time": 18,
       "end_time": 21,
       "annotation": [
