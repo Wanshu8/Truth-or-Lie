@@ -1,35 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 0,
-      "end_time": 5,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The host introduces the premise: a man claims to have had contact with beings from outer space. This frames the segment as extraordinary before the contestants speak."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Opening"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Game Show Format"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Entertainment Framing"
-        }
-      ],
-      "uuid": "678daffb-5840-4ca0-b160-53f536f4a99c"
-    },
-    {
       "start_time": 5,
       "end_time": 13,
       "annotation": [
