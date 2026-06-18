@@ -1170,43 +1170,6 @@
         }
       ],
       "uuid": "c61809dd-8925-45cd-bbad-0b0d85c0adc2"
-    },
-    {
-      "start_time": 525,
-      "end_time": 545,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The host asks whether Hickson thinks they will be back and then jokes about selling tickets, mixing belief with entertainment."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Bill Cullen"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Post-Reveal Interview"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Humorous Question"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Entertainment Framing"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Humor and Disbelief"
-        }
-      ],
-      "uuid": "329952f0-a7af-46e3-80f4-eea0f6476ca6"
     }
   ],
   "set": "Default",
