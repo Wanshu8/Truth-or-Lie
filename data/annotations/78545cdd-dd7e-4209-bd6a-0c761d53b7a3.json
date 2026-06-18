@@ -1172,43 +1172,6 @@
       "uuid": "c61809dd-8925-45cd-bbad-0b0d85c0adc2"
     },
     {
-      "start_time": 507,
-      "end_time": 525,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The host asks whether the beings communicated with Hickson. Hickson answers that he does not think they were trying to communicate."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Bill Cullen"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Post-Reveal Interview"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Factual Question"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Short Answer"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Communication"
-        }
-      ],
-      "uuid": "d121f88b-4e15-4d95-96ce-b94beb3716b8"
-    },
-    {
       "start_time": 525,
       "end_time": 545,
       "annotation": [
