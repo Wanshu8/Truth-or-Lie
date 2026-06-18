@@ -9,13 +9,22 @@
       ]
     },
     {
-      "type": "event",
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "uuid": "b0901244-96e9-42a2-9269-9f75af8bf50a",
       "includes": [
         "media",
         "annotations",
+        "label",
         "description"
       ],
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -35,7 +44,7 @@
   "created_by": "Wanshu8",
   "title": "To Tell The Truth-Video&Annotation",
   "slug": "to-tell-the-truth-videoandannotation",
-  "updated_at": "2026-06-18T14:45:51.312Z",
+  "updated_at": "2026-06-18T19:01:51.939Z",
   "updated_by": "Wanshu8",
   "autogenerate": {
     "enabled": false,
