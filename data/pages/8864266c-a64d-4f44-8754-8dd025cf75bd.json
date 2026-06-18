@@ -17,7 +17,7 @@
       ]
     },
     {
-      "uuid": "b0901244-96e9-42a2-9269-9f75af8bf50a",
+      "uuid": "810d6dfa-464c-49bc-8dc5-8507cc851e3b",
       "includes": [
         "media",
         "annotations",
@@ -44,7 +44,7 @@
   "created_by": "Wanshu8",
   "title": "To Tell The Truth-Video&Annotation",
   "slug": "to-tell-the-truth-videoandannotation",
-  "updated_at": "2026-06-18T19:01:51.939Z",
+  "updated_at": "2026-06-18T19:12:47.357Z",
   "updated_by": "Wanshu8",
   "autogenerate": {
     "enabled": false,
