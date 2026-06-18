@@ -1,43 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 13,
-      "end_time": 23,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "All three contestants state the same identity: \"My name is Charles Hickson.\" The repetition begins the identity game and places the real witness among impostors."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Opening"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Impostor Performance"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Truth Test"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Game Show Format"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Identity Claim"
-        }
-      ],
-      "uuid": "197b3cba-0625-40c9-bbd0-889257aba170"
-    },
-    {
       "start_time": 18,
       "end_time": 21,
       "annotation": [
