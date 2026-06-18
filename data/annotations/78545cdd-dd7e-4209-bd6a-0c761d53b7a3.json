@@ -1,43 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 5,
-      "end_time": 13,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The three contestants came out from the backstage while a music playing."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Opening"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Staging"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Applause / Music"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Entertainment Framing"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Truth Test"
-        }
-      ],
-      "uuid": "de4edbfe-c52b-4b6d-84b1-cf9662d66f9e"
-    },
-    {
       "start_time": 13,
       "end_time": 23,
       "annotation": [
