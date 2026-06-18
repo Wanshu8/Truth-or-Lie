@@ -1244,43 +1244,6 @@
         }
       ],
       "uuid": "329952f0-a7af-46e3-80f4-eea0f6476ca6"
-    },
-    {
-      "start_time": 545,
-      "end_time": 556,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The host says he does not disbelieve the story because he believes there is life elsewhere, and thanks Hickson and the impostors."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Bill Cullen"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Closing"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Public Judgment"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Entertainment Framing"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Belief Statement"
-        }
-      ],
-      "uuid": "414f7ae9-195d-4ea8-b912-64486c9fa4d8"
     }
   ],
   "set": "Default",
