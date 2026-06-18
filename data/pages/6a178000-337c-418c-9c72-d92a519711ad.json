@@ -4,8 +4,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Guide to Tags",
-          "textSize": "heading-one"
+          "text": "There are a number of tags which designate what information is where in the oral history videos. Their titles and tag groups make the information easier to find for individuals that are looking for specific information or content. You can filter for certain information in each of the videos to find what is most related to your research interests, or if you would like, you can watch the entire show then use the tags to go back to certain points later."
         }
       ]
     }
@@ -19,6 +18,6 @@
   "slug": "guide-to-tags",
   "created_at": "2026-06-18T14:46:55.113Z",
   "created_by": "Wanshu8",
-  "updated_at": "2026-06-18T14:46:55.113Z",
+  "updated_at": "2026-06-18T15:11:37.020Z",
   "updated_by": "Wanshu8"
 }
