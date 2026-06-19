@@ -1,1 +1,345 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":"","publish_static_site":false},"users":[{"login_name":"Wanshu8","avatar_url":"https://avatars.githubusercontent.com/u/145869867?v=4","admin":true}],"project":{"github_org":"Wanshu8","is_private":false,"title":"Performing Credibility: Charles Hickson, Pascagoula, and UFO Testimony on To Tell The Truth","description":"This project examines Charles Hickson’s appearance on To Tell the Truth after the 1973 Pascagoula UFO incident. Rather than proving or disproving the event, it analyzes how television turns a witness account into a public credibility test. The host reads Hickson’s signed statement, while Hickson and two impostors answer questions from the panel. Through AVAnnotate, the project highlights speech, gaze, posture, humor, hesitation, audience reaction, and the final reveal. The goal is to show how credibility is staged through performance, media format, and public judgment, not only through the content of testimony itself.","language":"en","slug":"Truth-or-Lie","creator":"Wanshu8","authors":"Wanshu Zhang","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"category":"Structure","color":"#ADFFD9"},{"category":"Event","color":"#ADFEFF"},{"category":"Interaction","color":"#99E6FF"},{"category":"Credibility","color":"#88C9F2"},{"category":"Media","color":"#99AFF2"},{"category":"People","color":"#B3B3E6"},{"category":"Gaze","color":"#C195DB"},{"category":"Face","color":"#DA9ECF"},{"category":"Body","color":"#F2A7C3"}],"tags":[{"tag":"Opening","category":"Structure"},{"tag":"Transition","category":"Structure"},{"tag":"Signed Statement","category":"Structure"},{"tag":"Panel Questioning","category":"Structure"},{"tag":"Voting","category":"Structure"},{"tag":"Reveal","category":"Structure"},{"tag":"Post Reveal Interview","category":"Structure"},{"tag":"Closing","category":"Structure"},{"tag":"Event Summary","category":"Event"},{"tag":"Craft Description","category":"Event"},{"tag":"Being Description","category":"Event"},{"tag":"Abduction Claim","category":"Event"},{"tag":"Examination","category":"Event"},{"tag":"Evidence Claim","category":"Event"},{"tag":"Communication","category":"Event"},{"tag":"Factual Question","category":"Interaction"},{"tag":"Skeptical Question","category":"Interaction"},{"tag":"Clarifying Question","category":"Interaction"},{"tag":"Humorous Question","category":"Interaction"},{"tag":"Short Answer","category":"Interaction"},{"tag":"Certainty Claim","category":"Interaction"},{"tag":"Truth Test","category":"Credibility"},{"tag":"Credibility Performance","category":"Credibility"},{"tag":"Impostor Performance","category":"Credibility"},{"tag":"Identity Claim","category":"Credibility"},{"tag":"Belief Truth","category":"Credibility"},{"tag":"Authority Reference","category":"Credibility"},{"tag":"Public Judgment","category":"Credibility"},{"tag":"Sobered Appearance","category":"Credibility"},{"tag":"True Believer","category":"Credibility"},{"tag":"Skeptical Framing","category":"Credibility"},{"tag":"Belief Statement","category":"Credibility"},{"tag":"Game Show Format","category":"Media"},{"tag":"Entertainment Framing","category":"Media"},{"tag":"Mediated Testimony","category":"Media"},{"tag":"Compression","category":"Media"},{"tag":"Staging","category":"Media"},{"tag":"Applause Music","category":"Media"},{"tag":"Humor Disbelief","category":"Media"},{"tag":"Bill Cullen","category":"People"},{"tag":"Orson Bean","category":"People"},{"tag":"Peggy Cass","category":"People"},{"tag":"Nipsey Russell","category":"People"},{"tag":"Kitty Carlisle","category":"People"},{"tag":"Contestant One","category":"People"},{"tag":"Contestant Two","category":"People"},{"tag":"Contestant Three","category":"People"},{"tag":"Contestant Comparison","category":"People"},{"tag":"Eye Movement","category":"Gaze"},{"tag":"Blink","category":"Gaze"},{"tag":"Eyebrow Movement","category":"Gaze"},{"tag":"Lip Movement","category":"Face"},{"tag":"Mouth Movement","category":"Face"},{"tag":"Smile No Smile","category":"Face"},{"tag":"Facial Expression","category":"Face"},{"tag":"Facial Seriousness","category":"Face"},{"tag":"Frown","category":"Face"},{"tag":"Head Movement","category":"Body"},{"tag":"Posture","category":"Body"},{"tag":"Body Position","category":"Body"},{"tag":"Hand Position","category":"Body"},{"tag":"Body Language","category":"Body"},{"tag":"Breath Movement","category":"Body"}]},"created_at":"2026-06-16T15:28:59.822Z","updated_at":"2026-06-19T15:06:41.392Z","generate_pages_site":true},"annotations":{},"events":{},"eventOrder":[],"pages":{"60c94fc1-4a83-4667-a6a6-bc0dcfd27cd7":{"content":[],"created_at":"2026-06-16T15:28:59.863Z","created_by":"Wanshu8","title":"Alien Abductee Charles Hickson on To Tell The Truth","updated_at":"2026-06-16T15:28:59.863Z","updated_by":"Wanshu8","autogenerate":{"enabled":true,"type":"home"}}},"pageOrder":["60c94fc1-4a83-4667-a6a6-bc0dcfd27cd7"]}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": "",
+    "publish_static_site": false
+  },
+  "users": [
+    {
+      "login_name": "Wanshu8",
+      "avatar_url": "https://avatars.githubusercontent.com/u/145869867?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "Wanshu8",
+    "is_private": false,
+    "title": "Performing Credibility: Charles Hickson, Pascagoula, and UFO Testimony on To Tell The Truth",
+    "description": "This project examines Charles Hickson’s appearance on To Tell the Truth after the 1973 Pascagoula UFO incident. Rather than proving or disproving the event, it analyzes how television turns a witness account into a public credibility test. The host reads Hickson’s signed statement, while Hickson and two impostors answer questions from the panel. Through AVAnnotate, the project highlights speech, gaze, posture, humor, hesitation, audience reaction, and the final reveal. The goal is to show how credibility is staged through performance, media format, and public judgment, not only through the content of testimony itself.",
+    "language": "en",
+    "slug": "Truth-or-Lie",
+    "creator": "Wanshu8",
+    "authors": "Wanshu Zhang",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "Structure",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Event",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "Interaction",
+          "color": "#99E6FF"
+        },
+        {
+          "category": "Credibility",
+          "color": "#88C9F2"
+        },
+        {
+          "category": "Media",
+          "color": "#99AFF2"
+        },
+        {
+          "category": "People",
+          "color": "#B3B3E6"
+        },
+        {
+          "category": "Gaze",
+          "color": "#C195DB"
+        },
+        {
+          "category": "Face",
+          "color": "#DA9ECF"
+        },
+        {
+          "category": "Body",
+          "color": "#F2A7C3"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Opening",
+          "category": "Structure"
+        },
+        {
+          "tag": "Transition",
+          "category": "Structure"
+        },
+        {
+          "tag": "Signed Statement",
+          "category": "Structure"
+        },
+        {
+          "tag": "Panel Questioning",
+          "category": "Structure"
+        },
+        {
+          "tag": "Voting",
+          "category": "Structure"
+        },
+        {
+          "tag": "Reveal",
+          "category": "Structure"
+        },
+        {
+          "tag": "Post Reveal Interview",
+          "category": "Structure"
+        },
+        {
+          "tag": "Closing",
+          "category": "Structure"
+        },
+        {
+          "tag": "Event Summary",
+          "category": "Event"
+        },
+        {
+          "tag": "Craft Description",
+          "category": "Event"
+        },
+        {
+          "tag": "Being Description",
+          "category": "Event"
+        },
+        {
+          "tag": "Abduction Claim",
+          "category": "Event"
+        },
+        {
+          "tag": "Examination",
+          "category": "Event"
+        },
+        {
+          "tag": "Evidence Claim",
+          "category": "Event"
+        },
+        {
+          "tag": "Communication",
+          "category": "Event"
+        },
+        {
+          "tag": "Factual Question",
+          "category": "Interaction"
+        },
+        {
+          "tag": "Skeptical Question",
+          "category": "Interaction"
+        },
+        {
+          "tag": "Clarifying Question",
+          "category": "Interaction"
+        },
+        {
+          "tag": "Humorous Question",
+          "category": "Interaction"
+        },
+        {
+          "tag": "Short Answer",
+          "category": "Interaction"
+        },
+        {
+          "tag": "Certainty Claim",
+          "category": "Interaction"
+        },
+        {
+          "tag": "Truth Test",
+          "category": "Credibility"
+        },
+        {
+          "tag": "Credibility Performance",
+          "category": "Credibility"
+        },
+        {
+          "tag": "Impostor Performance",
+          "category": "Credibility"
+        },
+        {
+          "tag": "Identity Claim",
+          "category": "Credibility"
+        },
+        {
+          "tag": "Belief Truth",
+          "category": "Credibility"
+        },
+        {
+          "tag": "Authority Reference",
+          "category": "Credibility"
+        },
+        {
+          "tag": "Public Judgment",
+          "category": "Credibility"
+        },
+        {
+          "tag": "Sobered Appearance",
+          "category": "Credibility"
+        },
+        {
+          "tag": "True Believer",
+          "category": "Credibility"
+        },
+        {
+          "tag": "Skeptical Framing",
+          "category": "Credibility"
+        },
+        {
+          "tag": "Belief Statement",
+          "category": "Credibility"
+        },
+        {
+          "tag": "Game Show Format",
+          "category": "Media"
+        },
+        {
+          "tag": "Entertainment Framing",
+          "category": "Media"
+        },
+        {
+          "tag": "Mediated Testimony",
+          "category": "Media"
+        },
+        {
+          "tag": "Compression",
+          "category": "Media"
+        },
+        {
+          "tag": "Staging",
+          "category": "Media"
+        },
+        {
+          "tag": "Applause Music",
+          "category": "Media"
+        },
+        {
+          "tag": "Humor Disbelief",
+          "category": "Media"
+        },
+        {
+          "tag": "Bill Cullen",
+          "category": "People"
+        },
+        {
+          "tag": "Orson Bean",
+          "category": "People"
+        },
+        {
+          "tag": "Peggy Cass",
+          "category": "People"
+        },
+        {
+          "tag": "Nipsey Russell",
+          "category": "People"
+        },
+        {
+          "tag": "Kitty Carlisle",
+          "category": "People"
+        },
+        {
+          "tag": "Contestant One",
+          "category": "People"
+        },
+        {
+          "tag": "Contestant Two",
+          "category": "People"
+        },
+        {
+          "tag": "Contestant Three",
+          "category": "People"
+        },
+        {
+          "tag": "Contestant Comparison",
+          "category": "People"
+        },
+        {
+          "tag": "Eye Movement",
+          "category": "Gaze"
+        },
+        {
+          "tag": "Blink",
+          "category": "Gaze"
+        },
+        {
+          "tag": "Eyebrow Movement",
+          "category": "Gaze"
+        },
+        {
+          "tag": "Lip Movement",
+          "category": "Face"
+        },
+        {
+          "tag": "Mouth Movement",
+          "category": "Face"
+        },
+        {
+          "tag": "Smile No Smile",
+          "category": "Face"
+        },
+        {
+          "tag": "Facial Expression",
+          "category": "Face"
+        },
+        {
+          "tag": "Facial Seriousness",
+          "category": "Face"
+        },
+        {
+          "tag": "Frown",
+          "category": "Face"
+        },
+        {
+          "tag": "Head Movement",
+          "category": "Body"
+        },
+        {
+          "tag": "Posture",
+          "category": "Body"
+        },
+        {
+          "tag": "Body Position",
+          "category": "Body"
+        },
+        {
+          "tag": "Hand Position",
+          "category": "Body"
+        },
+        {
+          "tag": "Body Language",
+          "category": "Body"
+        },
+        {
+          "tag": "Breath Movement",
+          "category": "Body"
+        }
+      ]
+    },
+    "created_at": "2026-06-16T15:28:59.822Z",
+    "updated_at": "2026-06-19T15:16:09.758Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "60c94fc1-4a83-4667-a6a6-bc0dcfd27cd7": {
+      "content": [],
+      "created_at": "2026-06-16T15:28:59.863Z",
+      "created_by": "Wanshu8",
+      "title": "Alien Abductee Charles Hickson on To Tell The Truth",
+      "updated_at": "2026-06-16T15:28:59.863Z",
+      "updated_by": "Wanshu8",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "60c94fc1-4a83-4667-a6a6-bc0dcfd27cd7"
+  ]
+}
