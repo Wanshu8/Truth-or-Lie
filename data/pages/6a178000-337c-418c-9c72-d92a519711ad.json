@@ -1,10 +1,949 @@
 {
   "content": [
     {
+      "type": "heading-one",
+      "children": [
+        {
+          "text": "Guide to Tags"
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
-          "text": "There are a number of tags which designate what information is where in the oral history videos. Their titles and tag groups make the information easier to find for individuals that are looking for specific information or content. You can filter for certain information in each of the videos to find what is most related to your research interests, or if you would like, you can watch the entire show then use the tags to go back to certain points later."
+          "text": "This page explains the tag system used in this project. The annotations identify important moments in the "
+        },
+        {
+          "text": "To Tell the Truth",
+          "italic": true
+        },
+        {
+          "text": "segment featuring Charles Hickson and the Pascagoula UFO incident. Tags help viewers navigate the video by theme, structure, speaker, and audiovisual detail."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The project uses tags to show how the segment turns a witness account into a televised credibility test. Some tags describe the structure of the program, such as the opening, signed statement, panel questioning, voting, and reveal. Other tags identify references to the UFO event itself. A third group of tags focuses on performance: gaze, facial expression, posture, humor, hesitation, and the ways panelists judge who seems truthful."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The tag names are intentionally simple. They use only words and spaces so they can work cleanly in AVAnnotate."
+        }
+      ]
+    },
+    {
+      "type": "heading-two",
+      "children": [
+        {
+          "text": "Structure Tags"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Structure tags mark the major parts of the video."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Opening",
+          "bold": true
+        },
+        {
+          "text": "\nUsed for the beginning of the segment, including the host’s introduction and the entrance of the contestants."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Signed Statement",
+          "bold": true
+        },
+        {
+          "text": "\nUsed when the host reads the written statement attributed to Charles Hickson. This tag is important because the statement is presented as Hickson’s account, but it is voiced by the host."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Panel Questioning",
+          "bold": true
+        },
+        {
+          "text": "\nUsed for the section where the panelists ask questions to the three contestants."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Voting",
+          "bold": true
+        },
+        {
+          "text": "\nUsed when panelists explain which contestant they believe is the real Charles Hickson."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Reveal",
+          "bold": true
+        },
+        {
+          "text": "\nUsed when the real Charles Hickson is asked to stand up."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Post Reveal Interview",
+          "bold": true
+        },
+        {
+          "text": "\nUsed for the short follow up conversation with Hickson after his identity is revealed."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Closing",
+          "bold": true
+        },
+        {
+          "text": "\nUsed for the end of the segment, when the host thanks Hickson and the impostors."
+        }
+      ]
+    },
+    {
+      "type": "heading-two",
+      "children": [
+        {
+          "text": "Event Tags"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Event tags identify parts of the video that describe the Pascagoula UFO incident."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Event Description",
+          "bold": true
+        },
+        {
+          "text": "\nUsed for general descriptions of the reported UFO encounter."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Craft Description",
+          "bold": true
+        },
+        {
+          "text": "\nUsed when the statement or questions describe the UFO craft, including its light, shape, landing, or opening."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Being Description",
+          "bold": true
+        },
+        {
+          "text": "\nUsed when the statement describes the beings, including their appearance, height, skin, ears, or claws."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Abduction Claim",
+          "bold": true
+        },
+        {
+          "text": "\nUsed when the segment refers to Hickson being lifted, taken into the craft, examined, or returned."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Calvin Parker",
+          "bold": true
+        },
+        {
+          "text": "\nUsed when the video refers to Hickson’s young friend, Calvin Parker, who was present during the reported event."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Examination",
+          "bold": true
+        },
+        {
+          "text": "\nUsed for references to the examination aboard the craft, including the “large menacing eye.”"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Evidence Claim",
+          "bold": true
+        },
+        {
+          "text": "\nUsed for references to hypnosis, lie detector tests, scientific examination, or attempts to substantiate the account."
+        }
+      ]
+    },
+    {
+      "type": "heading-two",
+      "children": [
+        {
+          "text": "Interaction Tags"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Interaction tags describe the questions, answers, and exchanges between the host, panelists, and contestants."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Factual Question",
+          "bold": true
+        },
+        {
+          "text": "\nUsed when a panelist asks for basic information, such as location, color, sequence, or physical details."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Skeptical Question",
+          "bold": true
+        },
+        {
+          "text": "\nUsed when a question challenges the plausibility, truth, or evidence of the account."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Humorous Question",
+          "bold": true
+        },
+        {
+          "text": "\nUsed when a question is framed as a joke or comic comment."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Clarifying Question",
+          "bold": true
+        },
+        {
+          "text": "\nUsed when a speaker asks for more detail or asks a contestant to explain something more clearly."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Short Answer",
+          "bold": true
+        },
+        {
+          "text": "\nUsed when a contestant gives a brief or minimal answer."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Hesitation",
+          "bold": true
+        },
+        {
+          "text": "\nUsed when a contestant pauses, delays, self corrects, or sounds uncertain."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Certainty Claim",
+          "bold": true
+        },
+        {
+          "text": "\nUsed when a contestant presents the story as true, firm, or unshakable."
+        }
+      ]
+    },
+    {
+      "type": "heading-two",
+      "children": [
+        {
+          "text": "Credibility Tags"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Credibility tags identify moments where truthfulness is performed, questioned, or judged."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Credibility Performance",
+          "bold": true
+        },
+        {
+          "text": "\nUsed when a contestant appears to perform believability through tone, seriousness, directness, or composure."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Impostor Performance",
+          "bold": true
+        },
+        {
+          "text": "\nUsed when one of the impostors answers as if he were Charles Hickson."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Truth Test",
+          "bold": true
+        },
+        {
+          "text": "\nUsed for moments when the program tests who appears to be the real witness."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Belief Truth",
+          "bold": true
+        },
+        {
+          "text": "\nUsed for moments that separate believing something from proving that it is objectively true, especially the discussion of the polygraph test."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Authority Reference",
+          "bold": true
+        },
+        {
+          "text": "\nUsed when the segment refers to police, experts, hypnosis, lie detector tests, science, or people “of authority.”"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "True Believer",
+          "bold": true
+        },
+        {
+          "text": "\nUsed when a panelist describes a contestant as sincere or convinced."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Sobered Appearance",
+          "bold": true
+        },
+        {
+          "text": "\nUsed when a panelist judges a contestant as looking changed, serious, or marked by the experience."
+        }
+      ]
+    },
+    {
+      "type": "heading-two",
+      "children": [
+        {
+          "text": "Media Tags"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Media tags describe how the television format shapes the testimony."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Game Show Format",
+          "bold": true
+        },
+        {
+          "text": "\nUsed when the rules, staging, voting, or reveal structure of "
+        },
+        {
+          "text": "To Tell the Truth",
+          "italic": true
+        },
+        {
+          "text": " shape the meaning of the segment."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Entertainment Framing",
+          "bold": true
+        },
+        {
+          "text": "\nUsed when music, applause, jokes, performance, or theatrical staging turn the testimony into entertainment."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Mediated Testimony",
+          "bold": true
+        },
+        {
+          "text": "\nUsed when Hickson’s account is filtered through the host’s reading, the written statement, the show format, or the presence of impostors."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Compression",
+          "bold": true
+        },
+        {
+          "text": "\nUsed when a complex event is reduced into a short television statement or brief question and answer exchange."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Public Judgment",
+          "bold": true
+        },
+        {
+          "text": "\nUsed when the panel or audience is invited to judge who appears credible."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Humor Disbelief",
+          "bold": true
+        },
+        {
+          "text": "\nUsed when humor expresses doubt, skepticism, or playful disbelief toward the UFO claim."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Applause Music",
+          "bold": true
+        },
+        {
+          "text": "\nUsed when music, applause, or other studio sounds shape the tone of the segment."
+        }
+      ]
+    },
+    {
+      "type": "heading-two",
+      "children": [
+        {
+          "text": "People Tags"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "People tags identify important participants in the segment."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Bill Cullen",
+          "bold": true
+        },
+        {
+          "text": "\nUsed for the host’s introduction, reading of the statement, and post reveal questions."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Charles Hickson",
+          "bold": true
+        },
+        {
+          "text": "\nUsed for the real Charles Hickson, especially after the reveal."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Contestant One",
+          "bold": true
+        },
+        {
+          "text": "\nUsed when referring to contestant number one before the reveal."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Contestant Two",
+          "bold": true
+        },
+        {
+          "text": "\nUsed when referring to contestant number two before the reveal."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Contestant Three",
+          "bold": true
+        },
+        {
+          "text": "\nUsed when referring to contestant number three before the reveal."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Orson Bean",
+          "bold": true
+        },
+        {
+          "text": "\nUsed for Orson Bean’s questions and vote explanation."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Peggy Cass",
+          "bold": true
+        },
+        {
+          "text": "\nUsed for Peggy Cass’s questions and vote explanation."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Nipsey Russell",
+          "bold": true
+        },
+        {
+          "text": "\nUsed for Nipsey Russell’s questions and vote explanation."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Kitty Carlisle",
+          "bold": true
+        },
+        {
+          "text": "\nUsed for Kitty Carlisle’s questions and vote explanation."
+        }
+      ]
+    },
+    {
+      "type": "heading-two",
+      "children": [
+        {
+          "text": "Gaze Tags"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Gaze tags identify visible eye direction or eye movement. These tags are used only when the behavior can be seen in the video."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Direct Gaze",
+          "bold": true
+        },
+        {
+          "text": "\nUsed when a speaker looks directly toward the host, a panelist, another contestant, the audience, or the camera."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Averted Gaze",
+          "bold": true
+        },
+        {
+          "text": "\nUsed when a speaker looks away, down, or to the side."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Eye Movement",
+          "bold": true
+        },
+        {
+          "text": "\nUsed for noticeable changes in eye direction."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Blink",
+          "bold": true
+        },
+        {
+          "text": "\nUsed for visible blinking when it is analytically relevant."
+        }
+      ]
+    },
+    {
+      "type": "heading-two",
+      "children": [
+        {
+          "text": "Face Tags"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Face tags identify facial expression and small facial movements."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Smile",
+          "bold": true
+        },
+        {
+          "text": "\nUsed when a contestant or panelist smiles."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "No Smile",
+          "bold": true
+        },
+        {
+          "text": "\nUsed when a lack of smiling is important, especially because Peggy Cass refers to contestant number two as someone who “never smiled.”"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Facial Seriousness",
+          "bold": true
+        },
+        {
+          "text": "\nUsed when a person appears solemn, tense, controlled, or serious."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Lip Movement",
+          "bold": true
+        },
+        {
+          "text": "\nUsed for visible lip movement, such as licking lips or pressing lips together."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Laughter",
+          "bold": true
+        },
+        {
+          "text": "\nUsed for visible or audible laughter."
+        }
+      ]
+    },
+    {
+      "type": "heading-two",
+      "children": [
+        {
+          "text": "Body Tags"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Body tags identify posture, movement, and gesture."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Posture",
+          "bold": true
+        },
+        {
+          "text": "\nUsed when a person’s seated position, stillness, leaning, or body orientation matters."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Head Movement",
+          "bold": true
+        },
+        {
+          "text": "\nUsed for nodding, turning, tilting, or other visible head movement."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Hand Position",
+          "bold": true
+        },
+        {
+          "text": "\nUsed when a person’s hands are visible and their placement or movement is relevant."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Gesture",
+          "bold": true
+        },
+        {
+          "text": "\nUsed for expressive body movement, including hand gestures or body shifts."
+        }
+      ]
+    },
+    {
+      "type": "heading-two",
+      "children": [
+        {
+          "text": "How to Read the Tags"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Most annotations use more than one tag. For example, a short skeptical joke by a panelist might include "
+        },
+        {
+          "text": "Humorous Question",
+          "bold": true
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "Skeptical Question",
+          "bold": true
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "Humor Disbelief",
+          "bold": true
+        },
+        {
+          "text": ", and "
+        },
+        {
+          "text": "Entertainment Framing",
+          "bold": true
+        },
+        {
+          "text": ". A moment where the host reads Hickson’s signed statement might include "
+        },
+        {
+          "text": "Signed Statement",
+          "bold": true
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "Mediated Testimony",
+          "bold": true
+        },
+        {
+          "text": ", and "
+        },
+        {
+          "text": "Bill Cullen",
+          "bold": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The tags are not meant to decide whether Hickson’s account is true or false. Instead, they help viewers observe how credibility is created, questioned, and performed in the video. They also help separate what is said from how it is staged: the spoken testimony, the television format, the contestants’ behavior, and the panelists’ judgments all work together to shape the audience’s understanding of the segment."
         }
       ]
     }
@@ -18,6 +957,6 @@
   "slug": "guide-to-tags",
   "created_at": "2026-06-18T14:46:55.113Z",
   "created_by": "Wanshu8",
-  "updated_at": "2026-06-18T15:11:37.020Z",
+  "updated_at": "2026-06-19T14:18:41.321Z",
   "updated_by": "Wanshu8"
 }
