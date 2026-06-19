@@ -9,15 +9,7 @@
       ]
     },
     {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "uuid": "810d6dfa-464c-49bc-8dc5-8507cc851e3b",
+      "uuid": "aea75671-4af6-4995-8b65-bcff037b79fc",
       "includes": [
         "media",
         "annotations",
@@ -44,7 +36,7 @@
   "created_by": "Wanshu8",
   "title": "To Tell The Truth-Video&Annotation",
   "slug": "to-tell-the-truth-videoandannotation",
-  "updated_at": "2026-06-18T19:12:47.357Z",
+  "updated_at": "2026-06-19T14:14:15.614Z",
   "updated_by": "Wanshu8",
   "autogenerate": {
     "enabled": false,
