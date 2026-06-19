@@ -1,5 +1,1627 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The host introduces the premise of a man who claims contact with beings from outer space. The segment begins by framing the guest through an extraordinary claim before any contestant speaks."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Opening",
+          "category": "Structure"
+        },
+        {
+          "tag": "Bill Cullen",
+          "category": "People"
+        },
+        {
+          "tag": "Entertainment Framing",
+          "category": "Media"
+        },
+        {
+          "tag": "Game Show Format",
+          "category": "Media"
+        }
+      ],
+      "uuid": "819cd691-c950-48a3-97ff-7fa55881cc56"
+    },
+    {
+      "start_time": 5,
+      "end_time": 13,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Music plays as the stage gate opens and the three contestants enter or are revealed. The entrance presents the testimony through theatrical staging before the panel begins questioning."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Opening",
+          "category": "Structure"
+        },
+        {
+          "tag": "Staging",
+          "category": "Media"
+        },
+        {
+          "tag": "Applause Music",
+          "category": "Media"
+        },
+        {
+          "tag": "Game Show Format",
+          "category": "Media"
+        }
+      ],
+      "uuid": "858b7aba-7144-46c8-a728-08308b1f90ef"
+    },
+    {
+      "start_time": 13,
+      "end_time": 23,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All three contestants state the same identity, My name is Charles Hickson. The repetition begins the identity game and places the real witness among performers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Opening",
+          "category": "Structure"
+        },
+        {
+          "tag": "Identity Claim",
+          "category": "Credibility"
+        },
+        {
+          "tag": "Impostor Performance",
+          "category": "Credibility"
+        },
+        {
+          "tag": "Truth Test",
+          "category": "Credibility"
+        }
+      ],
+      "uuid": "58aa7ff7-b298-40f4-b50f-d1bff87be9f5"
+    },
+    {
+      "start_time": 13,
+      "end_time": 17,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Contestant One bites his lower lip before speaking. While speaking, his eyes move from right to left and back twice. His head moves slightly side to side and then up and down. After speaking, he closes his lips tightly and blinks after saying Charles."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contestant One",
+          "category": "People"
+        },
+        {
+          "tag": "Lip Movement",
+          "category": "Face"
+        },
+        {
+          "tag": "Eye Movement",
+          "category": "Gaze"
+        },
+        {
+          "tag": "Head Movement",
+          "category": "Body"
+        },
+        {
+          "tag": "Blink",
+          "category": "Gaze"
+        }
+      ],
+      "uuid": "f56b8890-8d1e-4b3a-98e9-eb4c15711a31"
+    },
+    {
+      "start_time": 18,
+      "end_time": 21,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Contestant Two raises his head, eyes, and eyebrows as he begins speaking. His eyes move slightly to the right, his eyebrows continue small movements, and his head lowers again after he finishes. He blinks after saying Charles."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contestant Two",
+          "category": "People"
+        },
+        {
+          "tag": "Eye Movement",
+          "category": "Gaze"
+        },
+        {
+          "tag": "Eyebrow Movement",
+          "category": "Gaze"
+        },
+        {
+          "tag": "Head Movement",
+          "category": "Body"
+        },
+        {
+          "tag": "Blink",
+          "category": "Gaze"
+        }
+      ],
+      "uuid": "be78b3d3-ba64-4312-a5c4-f9310c03d4d1"
+    },
+    {
+      "start_time": 21,
+      "end_time": 23,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Contestant Three blinks twice before saying my name. His eyes and head move left while saying Hickson, then his eyes move back after he finishes speaking."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contestant Three",
+          "category": "People"
+        },
+        {
+          "tag": "Blink",
+          "category": "Gaze"
+        },
+        {
+          "tag": "Eye Movement",
+          "category": "Gaze"
+        },
+        {
+          "tag": "Head Movement",
+          "category": "Body"
+        }
+      ],
+      "uuid": "32aa7f46-8065-44a7-9a35-cb2b342e1810"
+    },
+    {
+      "start_time": 24,
+      "end_time": 99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The host reads the signed statement attributed to Charles Hickson. The statement summarizes the Pascagoula account, including the fishing setting, the craft, the beings, the examination, the return, hypnosis, and the lie detector test. The segment ends with signed Charles Hickson, marking the story as Hickson's written testimony even though it is voiced by the host."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Signed Statement",
+          "category": "Structure"
+        },
+        {
+          "tag": "Mediated Testimony",
+          "category": "Media"
+        },
+        {
+          "tag": "Event Summary",
+          "category": "Event"
+        },
+        {
+          "tag": "Evidence Claim",
+          "category": "Event"
+        },
+        {
+          "tag": "Authority Reference",
+          "category": "Credibility"
+        },
+        {
+          "tag": "Compression",
+          "category": "Media"
+        }
+      ],
+      "uuid": "599f1253-9ed0-4dcc-a9fe-e9b377d777e6"
+    },
+    {
+      "start_time": 28,
+      "end_time": 36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "During the statement reading, the three contestants stand with different body positions. Contestant One keeps his hands behind his back, while Contestants Two and Three hold their hands relaxed at their sides."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contestant Comparison",
+          "category": "People"
+        },
+        {
+          "tag": "Posture",
+          "category": "Body"
+        },
+        {
+          "tag": "Hand Position",
+          "category": "Body"
+        },
+        {
+          "tag": "Body Position",
+          "category": "Body"
+        }
+      ],
+      "uuid": "432665aa-dcb0-4ac7-bfa4-025b3e06db23"
+    },
+    {
+      "start_time": 48,
+      "end_time": 49,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Contestant One briefly licks his lips."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contestant One",
+          "category": "People"
+        },
+        {
+          "tag": "Lip Movement",
+          "category": "Face"
+        },
+        {
+          "tag": "Facial Expression",
+          "category": "Face"
+        }
+      ],
+      "uuid": "ff33d08a-1ef9-4d8b-a5e8-9cc81c5fccd5"
+    },
+    {
+      "start_time": 81,
+      "end_time": 82,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Contestant Three moves his eyes to the right and then back."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contestant Three",
+          "category": "People"
+        },
+        {
+          "tag": "Eye Movement",
+          "category": "Gaze"
+        }
+      ],
+      "uuid": "90eeec10-e5fb-489c-a6c6-3003f3d6a92a"
+    },
+    {
+      "start_time": 83,
+      "end_time": 83,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Contestant Three opens his mouth briefly."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contestant Three",
+          "category": "People"
+        },
+        {
+          "tag": "Mouth Movement",
+          "category": "Face"
+        },
+        {
+          "tag": "Facial Expression",
+          "category": "Face"
+        }
+      ],
+      "uuid": "453aecda-e0f3-4f2b-8eaf-568b4e41cb4f"
+    },
+    {
+      "start_time": 84,
+      "end_time": 84,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Contestant Three moves his eyes to the left and closes his mouth."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contestant Three",
+          "category": "People"
+        },
+        {
+          "tag": "Eye Movement",
+          "category": "Gaze"
+        },
+        {
+          "tag": "Mouth Movement",
+          "category": "Face"
+        }
+      ],
+      "uuid": "4a3d90a9-1200-4e84-926c-5c0cc9f299d5"
+    },
+    {
+      "start_time": 85,
+      "end_time": 91,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Contestant Three repeatedly shifts his gaze up, down, left, and right while the host continues reading the statement."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contestant Three",
+          "category": "People"
+        },
+        {
+          "tag": "Eye Movement",
+          "category": "Gaze"
+        },
+        {
+          "tag": "Body Language",
+          "category": "Body"
+        }
+      ],
+      "uuid": "2a16100b-6fb2-4fda-a2c0-70cad0c50bdc"
+    },
+    {
+      "start_time": 99,
+      "end_time": 105,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Music plays as the contestants walk to their seats and sit down, moving the segment from formal introduction into panel questioning."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transition",
+          "category": "Structure"
+        },
+        {
+          "tag": "Staging",
+          "category": "Media"
+        },
+        {
+          "tag": "Applause Music",
+          "category": "Media"
+        },
+        {
+          "tag": "Game Show Format",
+          "category": "Media"
+        }
+      ],
+      "uuid": "b2b18e91-5002-420b-aa29-439e0cd87582"
+    },
+    {
+      "start_time": 99,
+      "end_time": 100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Contestant Two turns left first, followed by Contestant Three and then Contestant One."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contestant Two",
+          "category": "People"
+        },
+        {
+          "tag": "Contestant Three",
+          "category": "People"
+        },
+        {
+          "tag": "Contestant One",
+          "category": "People"
+        },
+        {
+          "tag": "Head Movement",
+          "category": "Body"
+        }
+      ],
+      "uuid": "bf238fe4-cd0e-46a9-9ab2-900af93d61ba"
+    },
+    {
+      "start_time": 106,
+      "end_time": 117,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The host reminds viewers that all three men claim to be Charles Hickson and begins the panel questioning. The game structure turns the testimony into an identification test."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Panel Questioning",
+          "category": "Structure"
+        },
+        {
+          "tag": "Bill Cullen",
+          "category": "People"
+        },
+        {
+          "tag": "Truth Test",
+          "category": "Credibility"
+        },
+        {
+          "tag": "Game Show Format",
+          "category": "Media"
+        }
+      ],
+      "uuid": "375d09a2-3687-4997-a585-40e84cf71ff5"
+    },
+    {
+      "start_time": 120,
+      "end_time": 130,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Orson Bean asks Contestant One whether he caught anything after being returned. The question uses humor to test the story indirectly."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Orson Bean",
+          "category": "People"
+        },
+        {
+          "tag": "Humorous Question",
+          "category": "Interaction"
+        },
+        {
+          "tag": "Factual Question",
+          "category": "Interaction"
+        },
+        {
+          "tag": "Short Answer",
+          "category": "Interaction"
+        }
+      ],
+      "uuid": "f8c752dc-a36d-4912-b327-554e7a4a6f1e"
+    },
+    {
+      "start_time": 128,
+      "end_time": 129,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Contestant One moves his eyes upward to the right and then back."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contestant One",
+          "category": "People"
+        },
+        {
+          "tag": "Eye Movement",
+          "category": "Gaze"
+        }
+      ],
+      "uuid": "ed633a45-6cdf-4d68-a71c-130f1de17698"
+    },
+    {
+      "start_time": 129,
+      "end_time": 130,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Contestant One smiles with the corners of his mouth turned upward."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contestant One",
+          "category": "People"
+        },
+        {
+          "tag": "Smile No Smile",
+          "category": "Face"
+        },
+        {
+          "tag": "Facial Expression",
+          "category": "Face"
+        }
+      ],
+      "uuid": "c8ee9faf-499c-4d72-a16e-b728117e8aef"
+    },
+    {
+      "start_time": 130,
+      "end_time": 155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Orson Bean challenges the meaning of the polygraph, suggesting that it may show belief rather than factual truth. Contestant Three gives a cautious answer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Orson Bean",
+          "category": "People"
+        },
+        {
+          "tag": "Skeptical Question",
+          "category": "Interaction"
+        },
+        {
+          "tag": "Belief Truth",
+          "category": "Credibility"
+        },
+        {
+          "tag": "Evidence Claim",
+          "category": "Event"
+        },
+        {
+          "tag": "Short Answer",
+          "category": "Interaction"
+        }
+      ],
+      "uuid": "b70ce1d7-f29f-4ba4-a5a3-2368ab9a9f8e"
+    },
+    {
+      "start_time": 138,
+      "end_time": 142,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Contestant Two raises his eyes and moves them to the right, then moves his head left and right before licking his lips."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contestant Two",
+          "category": "People"
+        },
+        {
+          "tag": "Eye Movement",
+          "category": "Gaze"
+        },
+        {
+          "tag": "Head Movement",
+          "category": "Body"
+        },
+        {
+          "tag": "Lip Movement",
+          "category": "Face"
+        }
+      ],
+      "uuid": "3a67d4eb-b165-47a3-81b1-66ac0215c838"
+    },
+    {
+      "start_time": 149,
+      "end_time": 155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Contestant Three repeatedly shifts his gaze up, down, left, and right while answering."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contestant Three",
+          "category": "People"
+        },
+        {
+          "tag": "Eye Movement",
+          "category": "Gaze"
+        },
+        {
+          "tag": "Body Language",
+          "category": "Body"
+        }
+      ],
+      "uuid": "6d0954b7-465b-4a0b-9274-161f4a413810"
+    },
+    {
+      "start_time": 155,
+      "end_time": 162,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Orson Bean asks Contestant Three who Godzilla is. The joke shifts the UFO claim toward popular monster culture and comic disbelief."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Orson Bean",
+          "category": "People"
+        },
+        {
+          "tag": "Humorous Question",
+          "category": "Interaction"
+        },
+        {
+          "tag": "Humor Disbelief",
+          "category": "Media"
+        },
+        {
+          "tag": "Entertainment Framing",
+          "category": "Media"
+        }
+      ],
+      "uuid": "29262c7d-f612-4a2c-aa43-e6f9525f5018"
+    },
+    {
+      "start_time": 163,
+      "end_time": 177,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Orson Bean asks Contestant One about the creatures' claws and whether they had thumbs, testing the physical plausibility of the written description."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Orson Bean",
+          "category": "People"
+        },
+        {
+          "tag": "Clarifying Question",
+          "category": "Interaction"
+        },
+        {
+          "tag": "Being Description",
+          "category": "Event"
+        },
+        {
+          "tag": "Factual Question",
+          "category": "Interaction"
+        }
+      ],
+      "uuid": "5d4cda3a-8e0c-4fb4-bec4-3af4ded8232e"
+    },
+    {
+      "start_time": 168,
+      "end_time": 169,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Contestant One's body rises and falls with one visible breath."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contestant One",
+          "category": "People"
+        },
+        {
+          "tag": "Breath Movement",
+          "category": "Body"
+        },
+        {
+          "tag": "Body Language",
+          "category": "Body"
+        }
+      ],
+      "uuid": "87b483bb-ba22-4895-99b8-7c418694a358"
+    },
+    {
+      "start_time": 169,
+      "end_time": 170,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Contestant One quickly moves his eyes left and back, then frowns."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contestant One",
+          "category": "People"
+        },
+        {
+          "tag": "Eye Movement",
+          "category": "Gaze"
+        },
+        {
+          "tag": "Frown",
+          "category": "Face"
+        },
+        {
+          "tag": "Facial Expression",
+          "category": "Face"
+        }
+      ],
+      "uuid": "2c122cb0-b346-45dd-9551-7b7ab9394f53"
+    },
+    {
+      "start_time": 172,
+      "end_time": 172,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Contestant One briefly licks his lips."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Contestant One",
+          "category": "People"
+        },
+        {
+          "tag": "Lip Movement",
+          "category": "Face"
+        },
+        {
+          "tag": "Facial Expression",
+          "category": "Face"
+        }
+      ],
+      "uuid": "b4197b03-65e2-489b-a9ab-91c3d41dcabd"
+    },
+    {
+      "start_time": 181,
+      "end_time": 212,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Peggy Cass questions Contestant Two about the large eye, asking whether it was attached to a body, projected, or physically real."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Peggy Cass",
+          "category": "People"
+        },
+        {
+          "tag": "Clarifying Question",
+          "category": "Interaction"
+        },
+        {
+          "tag": "Examination",
+          "category": "Event"
+        },
+        {
+          "tag": "Skeptical Question",
+          "category": "Interaction"
+        }
+      ],
+      "uuid": "97e0af39-a5d3-40c1-bc48-5b8abbed1e23"
+    },
+    {
+      "start_time": 212,
+      "end_time": 224,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Peggy Cass asks Contestant Three whether the experience changed his life. He answers by mentioning calls, letters, and news people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Peggy Cass",
+          "category": "People"
+        },
+        {
+          "tag": "Factual Question",
+          "category": "Interaction"
+        },
+        {
+          "tag": "Short Answer",
+          "category": "Interaction"
+        },
+        {
+          "tag": "Public Judgment",
+          "category": "Credibility"
+        }
+      ],
+      "uuid": "c42aa5ee-e6ac-4625-811c-117a548b76e4"
+    },
+    {
+      "start_time": 225,
+      "end_time": 234,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Peggy Cass asks where the experience happened. The repeated Mississippi answers from Contestants One and Two confirm a basic factual detail."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Peggy Cass",
+          "category": "People"
+        },
+        {
+          "tag": "Factual Question",
+          "category": "Interaction"
+        },
+        {
+          "tag": "Event Summary",
+          "category": "Event"
+        },
+        {
+          "tag": "Short Answer",
+          "category": "Interaction"
+        }
+      ],
+      "uuid": "c31a6986-907e-4251-a87b-932150eacf09"
+    },
+    {
+      "start_time": 243,
+      "end_time": 254,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nipsey Russell asks Contestant Three what he was drinking that night, jokingly suggesting intoxication as an alternative explanation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Nipsey Russell",
+          "category": "People"
+        },
+        {
+          "tag": "Humorous Question",
+          "category": "Interaction"
+        },
+        {
+          "tag": "Skeptical Question",
+          "category": "Interaction"
+        },
+        {
+          "tag": "Humor Disbelief",
+          "category": "Media"
+        }
+      ],
+      "uuid": "5ffbb8ee-1bdc-42b7-8347-06449fbc929c"
+    },
+    {
+      "start_time": 255,
+      "end_time": 268,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nipsey Russell asks Contestant Two whether any language or communication occurred during the examination. He reports yelling and hearing a buzzing sound."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Nipsey Russell",
+          "category": "People"
+        },
+        {
+          "tag": "Factual Question",
+          "category": "Interaction"
+        },
+        {
+          "tag": "Short Answer",
+          "category": "Interaction"
+        },
+        {
+          "tag": "Communication",
+          "category": "Event"
+        }
+      ],
+      "uuid": "c08e0a91-676d-4b43-b95b-c98221656409"
+    },
+    {
+      "start_time": 268,
+      "end_time": 290,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nipsey Russell asks Contestant One about the force exerted on him and whether he could resist. Contestant One says he had no power to resist and does not know what kept him suspended."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Nipsey Russell",
+          "category": "People"
+        },
+        {
+          "tag": "Clarifying Question",
+          "category": "Interaction"
+        },
+        {
+          "tag": "Abduction Claim",
+          "category": "Event"
+        },
+        {
+          "tag": "Short Answer",
+          "category": "Interaction"
+        }
+      ],
+      "uuid": "68f21796-95f8-4c59-a499-39553a050780"
+    },
+    {
+      "start_time": 291,
+      "end_time": 306,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nipsey Russell asks Contestant Three about hypnosis and whether he was aware of answering questions. Contestant Three says he was aware."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Nipsey Russell",
+          "category": "People"
+        },
+        {
+          "tag": "Evidence Claim",
+          "category": "Event"
+        },
+        {
+          "tag": "Authority Reference",
+          "category": "Credibility"
+        },
+        {
+          "tag": "Factual Question",
+          "category": "Interaction"
+        }
+      ],
+      "uuid": "c3afe1a8-87f0-4c09-bea1-c424b772a06c"
+    },
+    {
+      "start_time": 309,
+      "end_time": 311,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The host comments that Kitty looks skeptical before continuing the questions, making skepticism part of the visible performance of the panel."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bill Cullen",
+          "category": "People"
+        },
+        {
+          "tag": "Skeptical Framing",
+          "category": "Credibility"
+        },
+        {
+          "tag": "Public Judgment",
+          "category": "Credibility"
+        },
+        {
+          "tag": "Entertainment Framing",
+          "category": "Media"
+        }
+      ],
+      "uuid": "77fc0c76-fe35-4859-99f9-533e7dfb09c3"
+    },
+    {
+      "start_time": 311,
+      "end_time": 335,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Kitty Carlisle asks Contestant One whether his clothes were removed. The answer adds detail to the examination narrative."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kitty Carlisle",
+          "category": "People"
+        },
+        {
+          "tag": "Examination",
+          "category": "Event"
+        },
+        {
+          "tag": "Factual Question",
+          "category": "Interaction"
+        },
+        {
+          "tag": "Short Answer",
+          "category": "Interaction"
+        }
+      ],
+      "uuid": "a91bea05-8dc6-4ea0-a55f-86d308fa4165"
+    },
+    {
+      "start_time": 336,
+      "end_time": 345,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Kitty Carlisle asks Contestant Two whether any language was used. The answer adds detail to the communication aspect of the account."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kitty Carlisle",
+          "category": "People"
+        },
+        {
+          "tag": "Factual Question",
+          "category": "Interaction"
+        },
+        {
+          "tag": "Short Answer",
+          "category": "Interaction"
+        },
+        {
+          "tag": "Communication",
+          "category": "Event"
+        }
+      ],
+      "uuid": "1a5c9dfe-09e1-42c2-894b-1b4e29c5da7a"
+    },
+    {
+      "start_time": 346,
+      "end_time": 359,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Kitty Carlisle follows up as Contestant Two speculates that the beings may have been robots."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kitty Carlisle",
+          "category": "People"
+        },
+        {
+          "tag": "Being Description",
+          "category": "Event"
+        },
+        {
+          "tag": "Clarifying Question",
+          "category": "Interaction"
+        },
+        {
+          "tag": "Short Answer",
+          "category": "Interaction"
+        }
+      ],
+      "uuid": "d73db8ba-beeb-4f8c-97d1-3661277e08cb"
+    },
+    {
+      "start_time": 359,
+      "end_time": 368,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Kitty Carlisle asks Contestant Three whether anything was taken away from the event. Contestant Three says nothing was taken."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kitty Carlisle",
+          "category": "People"
+        },
+        {
+          "tag": "Factual Question",
+          "category": "Interaction"
+        },
+        {
+          "tag": "Short Answer",
+          "category": "Interaction"
+        },
+        {
+          "tag": "Event Summary",
+          "category": "Event"
+        }
+      ],
+      "uuid": "cc0e8317-c0d7-4844-92e1-e5beb59f6c66"
+    },
+    {
+      "start_time": 369,
+      "end_time": 381,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The host ends questioning and instructs the panel to vote for number one, two, or three. The show formally turns testimony into a decision game."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Voting",
+          "category": "Structure"
+        },
+        {
+          "tag": "Bill Cullen",
+          "category": "People"
+        },
+        {
+          "tag": "Truth Test",
+          "category": "Credibility"
+        },
+        {
+          "tag": "Game Show Format",
+          "category": "Media"
+        }
+      ],
+      "uuid": "0d10a7cc-35de-48f0-9cdf-71631bd9d55d"
+    },
+    {
+      "start_time": 400,
+      "end_time": 420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Orson Bean votes for Contestant One because he looks like someone sobered by the experience. The explanation judges truth through appearance and affect."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Orson Bean",
+          "category": "People"
+        },
+        {
+          "tag": "Voting",
+          "category": "Structure"
+        },
+        {
+          "tag": "Sobered Appearance",
+          "category": "Credibility"
+        },
+        {
+          "tag": "Credibility Performance",
+          "category": "Credibility"
+        },
+        {
+          "tag": "Public Judgment",
+          "category": "Credibility"
+        }
+      ],
+      "uuid": "0880f36a-1625-467e-a66f-04b33fdb1b37"
+    },
+    {
+      "start_time": 421,
+      "end_time": 431,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Peggy Cass votes for Contestant Two because he never smiled and seems like a true believer. Facial seriousness becomes evidence of credibility."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Peggy Cass",
+          "category": "People"
+        },
+        {
+          "tag": "Voting",
+          "category": "Structure"
+        },
+        {
+          "tag": "True Believer",
+          "category": "Credibility"
+        },
+        {
+          "tag": "Smile No Smile",
+          "category": "Face"
+        },
+        {
+          "tag": "Facial Seriousness",
+          "category": "Face"
+        }
+      ],
+      "uuid": "c6d4f1ab-1917-4c73-8876-5656abd6fa85"
+    },
+    {
+      "start_time": 432,
+      "end_time": 443,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nipsey Russell votes for Contestant Three and makes a joke about being picked up by similar creatures. Humor continues during the credibility test."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Nipsey Russell",
+          "category": "People"
+        },
+        {
+          "tag": "Voting",
+          "category": "Structure"
+        },
+        {
+          "tag": "Humorous Question",
+          "category": "Interaction"
+        },
+        {
+          "tag": "Humor Disbelief",
+          "category": "Media"
+        },
+        {
+          "tag": "Entertainment Framing",
+          "category": "Media"
+        }
+      ],
+      "uuid": "5f0184ad-8327-4cd0-bd38-39fc04ff68e2"
+    },
+    {
+      "start_time": 451,
+      "end_time": 467,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Kitty Carlisle votes for Contestant One because he looks like the kind of gentleman to whom this could have happened, again relying on appearance."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kitty Carlisle",
+          "category": "People"
+        },
+        {
+          "tag": "Voting",
+          "category": "Structure"
+        },
+        {
+          "tag": "Sobered Appearance",
+          "category": "Credibility"
+        },
+        {
+          "tag": "Credibility Performance",
+          "category": "Credibility"
+        },
+        {
+          "tag": "Public Judgment",
+          "category": "Credibility"
+        }
+      ],
+      "uuid": "3f779cbc-0f9f-4a46-89eb-2edeb549b202"
+    },
+    {
+      "start_time": 467,
+      "end_time": 486,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The host announces the split vote and asks the real Charles Hickson to stand. The reveal theatrically resolves the identity game."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Reveal",
+          "category": "Structure"
+        },
+        {
+          "tag": "Bill Cullen",
+          "category": "People"
+        },
+        {
+          "tag": "Truth Test",
+          "category": "Credibility"
+        },
+        {
+          "tag": "Game Show Format",
+          "category": "Media"
+        },
+        {
+          "tag": "Public Judgment",
+          "category": "Credibility"
+        }
+      ],
+      "uuid": "b6b74ea5-f61e-4908-b5bd-d47b6c92cf01"
+    },
+    {
+      "start_time": 489,
+      "end_time": 507,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "After the reveal, the host asks Hickson about polygraph tests, scientific examinations, and whether authorities doubted him. The confirmed witness is linked to authority and evidence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bill Cullen",
+          "category": "People"
+        },
+        {
+          "tag": "Post Reveal Interview",
+          "category": "Structure"
+        },
+        {
+          "tag": "Authority Reference",
+          "category": "Credibility"
+        },
+        {
+          "tag": "Evidence Claim",
+          "category": "Event"
+        }
+      ],
+      "uuid": "757fcecc-0e2e-40fa-b261-fc2619e79e09"
+    },
+    {
+      "start_time": 507,
+      "end_time": 525,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The host asks whether the beings communicated with Hickson. Hickson answers that he does not think they were trying to communicate."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bill Cullen",
+          "category": "People"
+        },
+        {
+          "tag": "Post Reveal Interview",
+          "category": "Structure"
+        },
+        {
+          "tag": "Factual Question",
+          "category": "Interaction"
+        },
+        {
+          "tag": "Short Answer",
+          "category": "Interaction"
+        },
+        {
+          "tag": "Communication",
+          "category": "Event"
+        }
+      ],
+      "uuid": "17793f09-e606-489a-a3e4-82760fc0aeca"
+    },
+    {
+      "start_time": 525,
+      "end_time": 545,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The host asks whether Hickson thinks they will be back and then jokes about selling tickets, mixing belief with entertainment."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bill Cullen",
+          "category": "People"
+        },
+        {
+          "tag": "Post Reveal Interview",
+          "category": "Structure"
+        },
+        {
+          "tag": "Humorous Question",
+          "category": "Interaction"
+        },
+        {
+          "tag": "Entertainment Framing",
+          "category": "Media"
+        },
+        {
+          "tag": "Humor Disbelief",
+          "category": "Media"
+        }
+      ],
+      "uuid": "4a3574d4-8d73-490a-8ac2-9bf0ee020f5a"
+    },
+    {
+      "start_time": 545,
+      "end_time": 556,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The host says he does not disbelieve the story because he believes there is life elsewhere, then thanks Hickson and the impostors."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bill Cullen",
+          "category": "People"
+        },
+        {
+          "tag": "Closing",
+          "category": "Structure"
+        },
+        {
+          "tag": "Public Judgment",
+          "category": "Credibility"
+        },
+        {
+          "tag": "Entertainment Framing",
+          "category": "Media"
+        },
+        {
+          "tag": "Belief Statement",
+          "category": "Credibility"
+        }
+      ],
+      "uuid": "70ac39ce-8031-42ab-a0f5-9b51766df553"
+    }
+  ],
   "set": "Default",
   "event_id": "aea75671-4af6-4995-8b65-bcff037b79fc",
   "source_id": "7e48605f-61e4-4584-adec-fcfbf4ce5337"
