@@ -32,6 +32,14 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "heading-two",
       "children": [
         {
@@ -40,10 +48,26 @@
       ]
     },
     {
+      "type": "heading-two",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
           "text": "Structure tags mark the major parts of the video."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -63,11 +87,27 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Signed Statement",
           "bold": true
         },
         {
           "text": "\nUsed when the host reads the written statement attributed to Charles Hickson. This tag is important because the statement is presented as Hickson’s account, but it is voiced by the host."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -87,11 +127,27 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Voting",
           "bold": true
         },
         {
           "text": "\nUsed when panelists explain which contestant they believe is the real Charles Hickson."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -111,11 +167,27 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Post Reveal Interview",
           "bold": true
         },
         {
           "text": "\nUsed for the short follow up conversation with Hickson after his identity is revealed."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -151,11 +223,27 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Event Description",
           "bold": true
         },
         {
           "text": "\nUsed for general descriptions of the reported UFO encounter."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -175,11 +263,27 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Being Description",
           "bold": true
         },
         {
           "text": "\nUsed when the statement describes the beings, including their appearance, height, skin, ears, or claws."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -199,6 +303,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Calvin Parker",
           "bold": true
         },
@@ -211,11 +323,27 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Examination",
           "bold": true
         },
         {
           "text": "\nUsed for references to the examination aboard the craft, including the “large menacing eye.”"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -251,11 +379,27 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Factual Question",
           "bold": true
         },
         {
           "text": "\nUsed when a panelist asks for basic information, such as location, color, sequence, or physical details."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -275,11 +419,27 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Humorous Question",
           "bold": true
         },
         {
           "text": "\nUsed when a question is framed as a joke or comic comment."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -299,11 +459,27 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Short Answer",
           "bold": true
         },
         {
           "text": "\nUsed when a contestant gives a brief or minimal answer."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -323,11 +499,27 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Certainty Claim",
           "bold": true
         },
         {
           "text": "\nUsed when a contestant presents the story as true, firm, or unshakable."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -340,10 +532,26 @@
       ]
     },
     {
+      "type": "heading-two",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
           "text": "Credibility tags identify moments where truthfulness is performed, questioned, or judged."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -363,11 +571,27 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Impostor Performance",
           "bold": true
         },
         {
           "text": "\nUsed when one of the impostors answers as if he were Charles Hickson."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -387,11 +611,27 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Belief Truth",
           "bold": true
         },
         {
           "text": "\nUsed for moments that separate believing something from proving that it is objectively true, especially the discussion of the polygraph test."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -411,11 +651,27 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "True Believer",
           "bold": true
         },
         {
           "text": "\nUsed when a panelist describes a contestant as sincere or convinced."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -432,6 +688,14 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "heading-two",
       "children": [
         {
@@ -440,10 +704,26 @@
       ]
     },
     {
+      "type": "heading-two",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
           "text": "Media tags describe how the television format shapes the testimony."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -470,11 +750,27 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Entertainment Framing",
           "bold": true
         },
         {
           "text": "\nUsed when music, applause, jokes, performance, or theatrical staging turn the testimony into entertainment."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -494,11 +790,27 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Compression",
           "bold": true
         },
         {
           "text": "\nUsed when a complex event is reduced into a short television statement or brief question and answer exchange."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -518,11 +830,27 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Humor Disbelief",
           "bold": true
         },
         {
           "text": "\nUsed when humor expresses doubt, skepticism, or playful disbelief toward the UFO claim."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -539,6 +867,14 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "heading-two",
       "children": [
         {
@@ -547,10 +883,26 @@
       ]
     },
     {
+      "type": "heading-two",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
           "text": "People tags identify important participants in the segment."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -570,11 +922,27 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Charles Hickson",
           "bold": true
         },
         {
           "text": "\nUsed for the real Charles Hickson, especially after the reveal."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -594,11 +962,27 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Contestant Two",
           "bold": true
         },
         {
           "text": "\nUsed when referring to contestant number two before the reveal."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -618,11 +1002,27 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Orson Bean",
           "bold": true
         },
         {
           "text": "\nUsed for Orson Bean’s questions and vote explanation."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -642,11 +1042,27 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Nipsey Russell",
           "bold": true
         },
         {
           "text": "\nUsed for Nipsey Russell’s questions and vote explanation."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -663,6 +1079,14 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "heading-two",
       "children": [
         {
@@ -671,10 +1095,26 @@
       ]
     },
     {
+      "type": "heading-two",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
           "text": "Gaze tags identify visible eye direction or eye movement. These tags are used only when the behavior can be seen in the video."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -694,11 +1134,27 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Averted Gaze",
           "bold": true
         },
         {
           "text": "\nUsed when a speaker looks away, down, or to the side."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -718,11 +1174,27 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Blink",
           "bold": true
         },
         {
           "text": "\nUsed for visible blinking when it is analytically relevant."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -735,10 +1207,26 @@
       ]
     },
     {
+      "type": "heading-two",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
           "text": "Face tags identify facial expression and small facial movements."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -758,11 +1246,27 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "No Smile",
           "bold": true
         },
         {
           "text": "\nUsed when a lack of smiling is important, especially because Peggy Cass refers to contestant number two as someone who “never smiled.”"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -782,11 +1286,27 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Lip Movement",
           "bold": true
         },
         {
           "text": "\nUsed for visible lip movement, such as licking lips or pressing lips together."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -803,6 +1323,14 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "heading-two",
       "children": [
         {
@@ -811,10 +1339,26 @@
       ]
     },
     {
+      "type": "heading-two",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
           "text": "Body tags identify posture, movement, and gesture."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -834,11 +1378,27 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Head Movement",
           "bold": true
         },
         {
           "text": "\nUsed for nodding, turning, tilting, or other visible head movement."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -858,6 +1418,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Gesture",
           "bold": true
         },
@@ -867,10 +1435,26 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "heading-two",
       "children": [
         {
           "text": "How to Read the Tags"
+        }
+      ]
+    },
+    {
+      "type": "heading-two",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -935,6 +1519,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "The tags are not meant to decide whether Hickson’s account is true or false. Instead, they help viewers observe how credibility is created, questioned, and performed in the video. They also help separate what is said from how it is staged: the spoken testimony, the television format, the contestants’ behavior, and the panelists’ judgments all work together to shape the audience’s understanding of the segment."
         }
       ]
@@ -949,6 +1541,6 @@
   "slug": "guide-to-tags",
   "created_at": "2026-06-18T14:46:55.113Z",
   "created_by": "Wanshu8",
-  "updated_at": "2026-06-19T14:23:55.294Z",
+  "updated_at": "2026-06-19T15:06:41.049Z",
   "updated_by": "Wanshu8"
 }
