@@ -1,0 +1,14 @@
+{
+  "content": [],
+  "created_at": "2026-06-19T14:12:42.359Z",
+  "created_by": "Wanshu8",
+  "title": "Documental 1",
+  "slug": "documental-1",
+  "updated_at": "2026-06-19T14:12:42.359Z",
+  "updated_by": "Wanshu8",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "aea75671-4af6-4995-8b65-bcff037b79fc"
+  }
+}
